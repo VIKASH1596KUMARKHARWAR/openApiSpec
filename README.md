@@ -1,4 +1,5 @@
 # OpenAPI Spec
+![OpenAPI Spec Example](./image1.png)
 
 This project is my first attempt at creating an OpenAPI specification. The goal is to define and document an API using the OpenAPI 3.0 format, allowing for easy sharing and understanding of the API's structure.
 
